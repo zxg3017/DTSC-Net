@@ -1,0 +1,6 @@
+
+
+python train_la_dtc_ce_loss_16label_ema_update.py
+
+python train_la_dtc_mes_loss_16label_ema_update.py
+

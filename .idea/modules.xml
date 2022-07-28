@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BTCV_3D_Transformer/.idea/BTCV_3D_Transformer.iml" filepath="$PROJECT_DIR$/../BTCV_3D_Transformer/.idea/BTCV_3D_Transformer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DTC/.idea/DTC.iml" filepath="$PROJECT_DIR$/../DTC/.idea/DTC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Heart_DTC.iml" filepath="$PROJECT_DIR$/.idea/Heart_DTC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MedicalZooPytorch-master/.idea/MedicalZooPytorch-master.iml" filepath="$PROJECT_DIR$/../MedicalZooPytorch-master/.idea/MedicalZooPytorch-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../ai2019/zxg_FZU/Transformer/Swin-Unet-main(复件)/.idea/Swin-Unet-main.iml" filepath="$PROJECT_DIR$/../../../../ai2019/zxg_FZU/Transformer/Swin-Unet-main(复件)/.idea/Swin-Unet-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../ai2019/zxg_FZU/seg_and_cls_projects/my_secode_paper_source_code/.idea/my_first_paper_source_code.iml" filepath="$PROJECT_DIR$/../../../../ai2019/zxg_FZU/seg_and_cls_projects/my_secode_paper_source_code/.idea/my_first_paper_source_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pytorch-3dunet-master/.idea/pytorch-3dunet-master.iml" filepath="$PROJECT_DIR$/../pytorch-3dunet-master/.idea/pytorch-3dunet-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spine_seg/.idea/spine_seg.iml" filepath="$PROJECT_DIR$/../spine_seg/.idea/spine_seg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vnet.pytorch-master/.idea/vnet.pytorch-master.iml" filepath="$PROJECT_DIR$/../vnet.pytorch-master/.idea/vnet.pytorch-master.iml" />
+    </modules>
+  </component>
+</project>
